@@ -14,5 +14,5 @@ The increasing number of applicants every year calls for a Machine Learning base
 Facilitate the process of visa approvals.
 Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
 
-###Note
-** The project was done with python
+### Note
+**The project was done with python**
